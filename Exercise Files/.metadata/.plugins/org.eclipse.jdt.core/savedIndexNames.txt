@@ -1,0 +1,27 @@
+INDEX VERSION 1.127+/Users/dsnellen/Desktop/github/DanDoesQA/Exercise Files/.metadata/.plugins/org.eclipse.jdt.core
+1271342938.index
+1917121814.index
+3302703152.index
+855630358.index
+292086710.index
+2119160767.index
+262645610.index
+1656282002.index
+2545238116.index
+1692234390.index
+1833648217.index
+3712507179.index
+2081520432.index
+156905802.index
+3321539481.index
+3916777747.index
+4031328055.index
+3266567714.index
+1586978865.index
+3927879410.index
+762399427.index
+2172906012.index
+1384487945.index
+1819685514.index
+4034374388.index
+1083689720.index
